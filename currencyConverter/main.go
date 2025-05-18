@@ -222,6 +222,10 @@ func inputSumm(nowInfo *Info, kodName map[string]string, mes string) (float64, b
 			return 0, true
 		} else if v, err := strconv.ParseFloat(input, 64); err == nil {
 			summ = v
+			if summ <= 0 {
+				fmt.Println(invalidInput)
+				continue
+			}
 			break
 		} else {
 			fmt.Println(invalidInput)
