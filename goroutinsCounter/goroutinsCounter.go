@@ -69,7 +69,7 @@ func main() {
 	// генерируем числа, подсчитывая их количество и сумму (применим потокобезопасный вариант)
 	go generator(ctx, chIn, func(i int64) {
 		atomic.AddInt64(&inputSum, i)
-		atomic.AddInt64(&inputCount, i)
+		atomic.AddInt64(&inputCount, 1)
 	})
 
 	// outs - слайс каналов, куда будут записываться числа из chIn
