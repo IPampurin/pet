@@ -30,4 +30,4 @@
     - пример многопоточного программирования  
 
 
-<img src="img/BrownGopherGo.svg" alt="Гофер" width="200" height="200">
+<img src="img/BrownGopherGo.svg" alt="Гофер" width="200" height="200"><img src="img/GopherDoctor.png" alt="Гофер" width="200" height="200"> 
