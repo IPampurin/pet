@@ -37,5 +37,5 @@
     - пример многопоточного программирования  
 
 <p align="center">
-    <img src="img/GopherDoctor.png" alt="Гофер" width="180" height="180">                     <img src="img/BrownGopherGo.svg" alt="Гофер" width="120" height="120">
+    <img src="img/GopherDoctor.png" alt="Гофер" width="400" height="400">                     <img src="img/BrownGopherGo.svg" alt="Гофер" width="100" height="100">
 </p>
