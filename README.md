@@ -1,13 +1,14 @@
-## В данном репозитории собраны минипроекты для иллюстрации проделанных работ, а также просто интересные решения.  
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <p align="left"><img src="img/BrownGopherGo.svg" alt="Гофер" width="150" height="150"></p>
-    </div>
-    <div>
-        <p align="right"><img src="img/GopherDoctor.png" alt="Гофер" width="200" height="200"></p>
-    </div>
-</div> 
+## 
+<table style="width:100%; border: none; border-collapse: collapse;">
+ <tr>
+ <td style="vertical-align: top;">
+ В данном репозитории собраны минипроекты для иллюстрации проделанных работ, а также просто интересные решения.
+ </td>
+ <td style="text-align: right;">
+ <img src="img/BrownGopherGo.svg" alt="Гофер" width="150" height="150">
+ </td>
+ </tr>
+</table>
   
 ### 1. calculator  
     - примитивный калькулятор с использованием мапы и анонимных функций как задатчика операций. 
