@@ -1,5 +1,3 @@
-<img src="img/BrownGopherGo.svg" alt="Гофер" width="200" height="200">
-
 ## В данном репозитории собраны минипроекты для иллюстрации проделанных работ, а также просто интересные решения.
   
 ### 1. calculator  
@@ -30,3 +28,6 @@
   
 ### 6. goroutinsCounter  
     - пример многопоточного программирования  
+
+
+<img src="img/BrownGopherGo.svg" alt="Гофер" width="200" height="200">
