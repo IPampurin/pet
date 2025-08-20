@@ -36,5 +36,6 @@
 ### 6. goroutinsCounter  
     - пример многопоточного программирования  
 
-
-<img src="img/BrownGopherGo.svg" alt="Гофер" width="200" height="200">
+<p align="right">
+    <img src="img/BrownGopherGo.svg" alt="Гофер" width="200" height="200">
+</p>
