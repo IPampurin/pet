@@ -1,0 +1,25 @@
+apple
+banana
+cherry
+date
+elderberry
+
+10
+2
+1
+20
+5
+
+3	banana
+1	apple
+2	cherry
+
+jan
+mar
+feb
+dec
+
+1K
+2M
+500
+1.5G
